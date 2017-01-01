@@ -1,2 +1,1 @@
-# canteen_old
-NIT warangal Canteen
+This site is devolped by Ahishek Singh
